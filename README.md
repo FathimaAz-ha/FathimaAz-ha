@@ -1,4 +1,4 @@
-# Hi there, I'm Fathima Az-ha 👋
+# Hi there, I'm Fathima Azha 👋
 
 An enthusiastic web developer who loves to capture new ideas and try new things.
 
