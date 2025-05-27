@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @FathimaAz-ha
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on front-end developing..
-- 😄 Pronouns: her
+# Hi there, I'm Fathima Az-ha 👋
 
-<!---
-FathimaAz-ha/FathimaAz-ha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An enthusiastic web developer who loves to capture new ideas and try new things.
+
+## 🌟 Skills & Technologies
+
+- HTML, CSS, JavaScript
+- Node.js, PHP, C#
+- ...and always learning more!
+
+## 🚀 Notable Projects
+
+- [Sim_botic](https://github.com/FathimaAz-ha/Sim_botic)
+- [Mickey-Mouse](https://github.com/FathimaAz-ha/Mickey-Mouse)
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/fathimaazha)
+
+## ✨ Fun Facts
+
+- I enjoy experimenting with new technologies and frameworks.
+- I love photography and exploring creative hobbies.
+- Always up for a good challenge or hackathon!
+
+---
+
+*Thanks for visiting my profile!*
