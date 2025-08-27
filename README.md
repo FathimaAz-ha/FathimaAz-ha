@@ -23,6 +23,7 @@ An enthusiastic web developer who loves to capture new ideas and try new things.
 - I enjoy experimenting with new technologies and frameworks.
 - I love photography and exploring creative hobbies.
 - Always up for a good challenge or hackathon!
+- I love games and I forget myself when I play
 
 ---
 
